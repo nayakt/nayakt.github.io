@@ -63,7 +63,6 @@ body {
 	background-color:#eeeeee;
 	margin:0;
 	border-bottom:3px solid #b28c5b;
-	margin-bottom: 100px;
 }
 h1 {
 	margin:0;
@@ -134,10 +133,10 @@ h1 {
 	margin:0 15px;
 	line-height:160%;
 }
-/*#home{
+#home{
 	padding-top: 80px;
 }
-#education{
+/*#education{
 	padding-top: 80px;
 }
 #research{
@@ -213,5 +212,6 @@ h1 {
 /* .contentbar3 {display:none}  */
 /* .contentbar4 {display:none}  */
 /* .contentbar5 {display:none}  */
+
 
 
