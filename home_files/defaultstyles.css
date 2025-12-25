@@ -1,7 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
 
-
+html {
+    scroll-padding-top: 80px; /* Same as banner height */
+}
 
 a:link, a:visited {
 	text-decoration:none;
@@ -131,7 +133,7 @@ h1 {
 	margin:0 15px;
 	line-height:160%;
 }
-#home{
+/*#home{
 	padding-top: 80px;
 }
 #education{
@@ -142,7 +144,7 @@ h1 {
 }
 #contact{
 	padding-top: 80px;
-}
+}*/
 #footer {
 	padding:15px;	
 	overflow:auto;
@@ -210,3 +212,4 @@ h1 {
 /* .contentbar3 {display:none}  */
 /* .contentbar4 {display:none}  */
 /* .contentbar5 {display:none}  */
+
