@@ -24,6 +24,7 @@ body {
 	color:#333;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", Arial, Helvetica, sans-serif;
 	opacity: 90%;
+	min-height: 100vh;
 }
 
 
