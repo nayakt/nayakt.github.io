@@ -2,9 +2,7 @@
 /* CSS Document */
 
 html {
-	margin:0;
     scroll-padding-top: 80px; /* Same as banner height */
-	min-height: 100%;
 }
 
 a:link, a:visited {
@@ -26,12 +24,6 @@ body {
 	color:#333;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", Arial, Helvetica, sans-serif;
 	opacity: 90%;
-	min-height: 100dvh;
-	display: flex;
-    flex-direction: column;
-}
-main {
-  flex-grow: 1;
 }
 
 #container {
@@ -109,7 +101,6 @@ h1 {
 #page {
 	background-color:#FFF;
 	overflow:auto;
-	min-height: 100%;
 	/*padding:15px 0;*/
 	/*top: 100px;*/
 	/*position: absolute;*/
