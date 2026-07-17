@@ -3,6 +3,7 @@
 
 html {
     scroll-padding-top: 80px; /* Same as banner height */
+	min-height: 100%;
 }
 
 a:link, a:visited {
