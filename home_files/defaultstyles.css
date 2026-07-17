@@ -109,6 +109,7 @@ h1 {
 #page {
 	background-color:#FFF;
 	overflow:auto;
+	min-height: 100%;
 	/*padding:15px 0;*/
 	/*top: 100px;*/
 	/*position: absolute;*/
