@@ -215,5 +215,22 @@ h1 {
 /* .contentbar4 {display:none}  */
 /* .contentbar5 {display:none}  */
 
+html,
+body {
+    min-height: 100%;
+}
+
+body {
+    min-height: 100vh;
+}
+
+#container {
+    min-height: 100vh;
+}
+
+#page {
+    min-height: 100vh;
+    box-sizing: border-box;
+}
 
 
